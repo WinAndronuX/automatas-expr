@@ -1,0 +1,33 @@
+# Binarios
+/expr
+/expr.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Pruebas y cobertura
+*.test
+*.out
+coverage.*
+*.coverprofile
+profile.cov
+
+# Workspace de Go
+go.work
+go.work.sum
+
+# Variables de entorno
+.env
+
+# Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
